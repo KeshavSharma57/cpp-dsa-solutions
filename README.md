@@ -16,3 +16,15 @@ My solutions to Data Structures & Algorithms problems from LeetCode, Codeforces 
 
 ## About
 Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Programmer
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
