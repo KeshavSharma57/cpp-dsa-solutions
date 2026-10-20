@@ -23,8 +23,13 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
