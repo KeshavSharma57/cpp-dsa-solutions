@@ -24,6 +24,7 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 | ------- |
 | [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
