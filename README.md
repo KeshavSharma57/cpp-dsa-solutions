@@ -32,4 +32,16 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
