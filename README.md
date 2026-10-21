@@ -38,6 +38,7 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
