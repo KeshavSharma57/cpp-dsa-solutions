@@ -25,6 +25,7 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 | [0001-two-sum](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1480-running-sum-of-1d-array](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
