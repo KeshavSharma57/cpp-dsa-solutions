@@ -44,6 +44,7 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0263-ugly-number) |
+| [0372-super-pow](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
@@ -67,4 +68,16 @@ Mathematics & Computing undergrad at RGIPT | ML & AI Enthusiast | Competitive Pr
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/KeshavSharma57/cpp-dsa-solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
